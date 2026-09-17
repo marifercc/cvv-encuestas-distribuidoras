@@ -35,3 +35,13 @@ Se aplicó TF-IDF + NMF por separado a P1 y P4. Los grupos encontrados apuntan a
 ## Limitaciones
 
 La muestra tiene 64 respuestas, las preguntas abiertas son breves y contienen errores ortográficos y respuestas ambiguas. El reporte describe señales de esta muestra y no permite generalizar a todas las distribuidoras sin una muestra mayor.
+
+
+## Segmentación de recontacto
+
+- Prioridad alta: 32 distribuidoras.
+- Prioridad media: 26 distribuidoras.
+- Baja o indeterminada: 6 distribuidoras.
+- La región con más casos de alta prioridad es SUR.
+
+El listado detallado está en `segmentos_recontacto.csv` y el guion operativo en `plan_recontacto.md`.

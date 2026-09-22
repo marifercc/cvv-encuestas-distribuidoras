@@ -23,6 +23,10 @@ Identificar por qué las distribuidoras dejan de colocar, qué valoran de otras 
 
 Se aplicó TF-IDF + NMF por separado a P1 y P4. Los grupos encontrados apuntan a clientes/colocación, temor o falta de actividad, condiciones financieras, exclusividad y búsqueda de clientes. Son señales exploratorias, no categorías definitivas ni porcentajes oficiales.
 
+## Sentimiento del texto libre
+
+Un diccionario de palabras positivas/negativas con negación simple (sección 10) clasifica 23 de 64 respuestas de P1 (motivo) como abiertamente negativas en tono. A nivel general, 38 distribuidoras tienen un tono general positivo, 13 neutro y 12 negativo. Es una señal complementaria a la calificación cerrada de P2, no un reemplazo.
+
 ## Recomendaciones
 
 1. Priorizar recuperación de clientes y acompañamiento comercial.
